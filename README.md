@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Damir  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Hi%20there%20👋,%20I'm%20Damir&fontSize=35&fontColor=ffffff"/>
+</p>
+
+
 ## Computer Science student at ITMO University  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+%7C+Systems+Developer;Low-level+programming)](https://git.io/typing-svg)
